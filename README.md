@@ -1,4 +1,4 @@
-7# compute-eval
+6# compute-eval
 
 ComputeEval: Evaluating Large Language Models for CUDA Code Generation
 
